@@ -1,0 +1,37 @@
+
+.display-fields-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .fields-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .fields-table th, .fields-table td {
+    border: 1px solid #928e8e;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .fields-table th {
+    background-color: #808080;
+  }
+  
+  .reset-button {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #71b8e4 ;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 80px;
+  }
+  
+  .reset-button:hover {
+    background-color: #71b8e4 ;
+  }
+  

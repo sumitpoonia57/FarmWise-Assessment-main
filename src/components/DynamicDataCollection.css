@@ -1,0 +1,50 @@
+/* Container for the data collection form */
+.data-collection-form {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #dddddd;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Style for form groups */
+.form-group {
+    margin-bottom: 20px;
+}
+
+/* Style for form labels */
+.data-collection-form label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+/* Style for form inputs */
+.data-collection-form input,
+.data-collection-form select {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+    margin-top: 3px;
+}
+
+/* Style for the form submit button */
+.data-collection-form button {
+    background-color: #3498db;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 15px;
+}
+
+/* Hover effect for the submit button */
+.data-collection-form button:hover {
+    background-color: #2c81ba;
+}

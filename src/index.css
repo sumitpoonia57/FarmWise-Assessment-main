@@ -1,0 +1,14 @@
+body {
+  /* margin: 0; */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(135deg, #3498db, #2ecc71); /* Updated gradient colors */
+  /* height: 100vh; Ensure full height of the viewport */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff; /* Adjust text color for better contrast */
+  /* overflow: hidden; Prevent scrolling */
+}
+
